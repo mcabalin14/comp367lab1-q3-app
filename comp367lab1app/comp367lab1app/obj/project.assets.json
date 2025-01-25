@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab 1\\comp367cabalinan-lab1-q3\\comp367lab1app\\comp367lab1app\\comp367lab1app.csproj",
+      "projectUniqueName": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\COMP367 Projects\\comp367cabalinan-lab1-q3\\comp367lab1app\\comp367lab1app\\comp367lab1app.csproj",
       "projectName": "comp367lab1app",
-      "projectPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab 1\\comp367cabalinan-lab1-q3\\comp367lab1app\\comp367lab1app\\comp367lab1app.csproj",
+      "projectPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\COMP367 Projects\\comp367cabalinan-lab1-q3\\comp367lab1app\\comp367lab1app\\comp367lab1app.csproj",
       "packagesPath": "C:\\Users\\Myhtak214\\.nuget\\packages\\",
-      "outputPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab 1\\comp367cabalinan-lab1-q3\\comp367lab1app\\comp367lab1app\\obj\\",
+      "outputPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\COMP367 Projects\\comp367cabalinan-lab1-q3\\comp367lab1app\\comp367lab1app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Myhtak214\\AppData\\Roaming\\NuGet\\NuGet.Config",
