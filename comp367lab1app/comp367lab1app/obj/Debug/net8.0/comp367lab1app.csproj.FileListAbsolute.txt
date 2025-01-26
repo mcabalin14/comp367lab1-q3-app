@@ -28,3 +28,34 @@ E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\06 SEMESTER\COMP 367 - D
 E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\06 SEMESTER\COMP 367 - DevOps Implementation\ASSIGNMENTS\Lab 1\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.pdb
 E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\06 SEMESTER\COMP 367 - DevOps Implementation\ASSIGNMENTS\Lab 1\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.genruntimeconfig.cache
 E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\06 SEMESTER\COMP 367 - DevOps Implementation\ASSIGNMENTS\Lab 1\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\ref\comp367lab1app.dll
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\appsettings.Development.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\appsettings.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\comp367lab1app.staticwebassets.runtime.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\comp367lab1app.exe
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\comp367lab1app.deps.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\comp367lab1app.runtimeconfig.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\comp367lab1app.dll
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\bin\Debug\net8.0\comp367lab1app.pdb
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.GeneratedMSBuildEditorConfig.editorconfig
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.AssemblyInfoInputs.cache
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.AssemblyInfo.cs
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.csproj.CoreCompileInputs.cache
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.MvcApplicationPartsAssemblyInfo.cache
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.RazorAssemblyInfo.cache
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.RazorAssemblyInfo.cs
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.sourcelink.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets.build.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets.development.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets\msbuild.comp367lab1app.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets\msbuild.build.comp367lab1app.props
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.comp367lab1app.props
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.comp367lab1app.props
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\scopedcss\bundle\comp367lab1app.styles.css
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\scopedcss\projectbundle\comp367lab1app.bundle.scp.css
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.dll
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\refint\comp367lab1app.dll
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.pdb
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\comp367lab1app.genruntimeconfig.cache
+E:\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\COMP367 Projects\comp367cabalinan-lab1-q3\comp367lab1app\comp367lab1app\obj\Debug\net8.0\ref\comp367lab1app.dll
